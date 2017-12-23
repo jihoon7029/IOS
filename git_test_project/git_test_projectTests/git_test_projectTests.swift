@@ -1,15 +1,15 @@
 //
-//  aaaaaaaaTests.swift
-//  aaaaaaaaTests
+//  git_test_projectTests.swift
+//  git_test_projectTests
 //
 //  Created by Kim Jihoon on 2017. 12. 23..
 //  Copyright © 2017년 Kim Jihoon. All rights reserved.
 //
 
 import XCTest
-@testable import aaaaaaaa
+@testable import git_test_project
 
-class aaaaaaaaTests: XCTestCase {
+class git_test_projectTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

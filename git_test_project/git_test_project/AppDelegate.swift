@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  aaaaaaaa
+//  git_test_project
 //
 //  Created by Kim Jihoon on 2017. 12. 23..
 //  Copyright © 2017년 Kim Jihoon. All rights reserved.
